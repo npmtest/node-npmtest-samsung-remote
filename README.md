@@ -1,4 +1,7 @@
-# test coverage for  [samsung-remote (v1.2.5)](https://github.com/natalan/samsung-remote#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-samsung-remote.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-samsung-remote) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-samsung-remote.svg)](https://travis-ci.org/npmtest/node-npmtest-samsung-remote)
+# npmtest-samsung-remote
+
+#### test coverage for  [samsung-remote (v1.2.5)](https://github.com/natalan/samsung-remote#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-samsung-remote.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-samsung-remote) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-samsung-remote.svg)](https://travis-ci.org/npmtest/node-npmtest-samsung-remote)
+
 #### Remote client for Samsung SmartTV
 
 [![NPM](https://nodei.co/npm/samsung-remote.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/samsung-remote)
